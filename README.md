@@ -36,8 +36,8 @@ The component was tested in free version of OSSN 6.4 and 7.0, in the GoBlue them
 
 ## Version
 
--1.2.1
-    - Fixed an issue in post with image
+- 1.2.1
+   - Fixed an issue in post with image
 - 1.2
    - Added support to text with break lines
 - 1.1
